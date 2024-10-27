@@ -4,3 +4,4 @@
 - Terraform
 - Docker
 - Git
+- CI/CD
